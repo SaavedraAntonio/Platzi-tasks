@@ -1,2 +1,0 @@
-Aquí vamos a prácticar los comanandos de Git
-
