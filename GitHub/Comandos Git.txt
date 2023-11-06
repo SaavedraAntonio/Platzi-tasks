@@ -7,3 +7,5 @@ $ git branch -m main
 $ git push origin main
 
 ------
+
+Lo anterior lo escribí en el navegador. Esto lo escribo desde el blog de notas para practicar pull y push desde diferentes entornos.
