@@ -1,1 +1,9 @@
 Este es un cambio que hago para probar el comando pull desde la consola de mi laptop.
+
+
+Para cambiar rama master a main:
+
+$ git branch -m main
+$ git push origin main
+
+------
