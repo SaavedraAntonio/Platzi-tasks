@@ -1,0 +1,20 @@
+¿Qué es la máquina abstracta?
+
+Una máquina abstracta es una computadora digital que ejecuta algoritmos, los cuales están formalizados para que la máquina entienda.
+
+¿Qué problema de la programación secuencial buscaba resolver el paradigma estructurado?
+
+La programación estructurada apareció como solución a la programación con escritura secuencial, la cual era muy difícil y costosa de leer, mantener y modificar.
+Con la aparición de las estructuras de control se redujo la necesidad de usar la expresión “GOTO”.
+Algunos de los primeros lenguajes que implementaron la programación estructurada son FORTRAN, Pascal, COBOL, ADA, Perl y C.
+
+¿Cómo opera el paradigma por procedimientos o procedural?
+
+La programación procedural o procedimental se deriva de la programación estructurada.
+Consiste en dividir el código en secciones lógicas llamadas rutinas o procedimientos, donde cada procedimiento resuelve una tarea específica, y se ejecuta cada vez que sea necesario.
+Algunos de los primeros lenguajes procedurales son FORTRAN, ALGOL, COBOL Y BASIC.
+
+¿Qué lenguaje introdujo el concepto de "código intermedio"?
+
+Se caracteriza por ser un lenguaje de programación fuertemente tipado, pero que permite la definición de nuevos tipos de datos con el primitivo type. 
+Además, introdujo el código intermedio. Es decir, el código Pascal se compila a un formato llamado “P-code”, que después es interpretado (similar a como funciona la Java Virtual Machine). 
